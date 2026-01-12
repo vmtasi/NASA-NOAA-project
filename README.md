@@ -61,5 +61,5 @@ The dataset is imbalanced (approx. 50% False Positives). We optimized for **F1-S
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/exofinder.git](https://github.com/your-username/exofinder.git)
-   cd exofinder**
+   git clone [https://github.com/vmtasi/NASA-NOAA-project](https://github.com/vmtasi/NASA-NOAA-project)
+
