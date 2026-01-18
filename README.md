@@ -1,4 +1,3 @@
-**# ExoFinder: Exoplanet Classification using Kepler Data
 ### NASA Space Apps Challenge 2025
 
 **Authors:** Van Tasi, Balemba King Salomon
@@ -62,4 +61,5 @@ The dataset is imbalanced (approx. 50% False Positives). We optimized for **F1-S
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/vmtasi/NASA-NOAA-project
+
 
