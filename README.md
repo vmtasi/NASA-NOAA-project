@@ -48,18 +48,3 @@ The dataset is imbalanced (approx. 50% False Positives). We optimized for **F1-S
 | **MLP (Neural Net)** | **74-75%** | **0.68** | **Best Performer.** Superior precision on False Positives. |
 
 **Final Selection:** The **MLP model** was selected for production due to its superior ability to distinguish between `CANDIDATE` and `CONFIRMED` classes.
-
-## Tech Stack
-* **Language:** Python 3.8+
-* **Data Manipulation:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn
-* **Machine Learning:** Scikit-Learn (Logistic Regression, Random Forest, Preprocessing)
-* **Deep Learning:** TensorFlow / Keras
-
-## Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/vmtasi/NASA-NOAA-project
-
-
